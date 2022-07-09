@@ -1,2 +1,2 @@
-# Font_decorator_bolditalic_unet
+# Autogeneration for Bolding and Italicizing
 UNET architecture for bolding and italicizing specific fonts
